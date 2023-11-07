@@ -1,0 +1,18 @@
+.basicCard{
+    min-width: 275px; 
+    height: 100%
+}
+
+.contentBasicCard{
+    height: 100px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.icon svg{
+    color: #665e71;
+    height: 30px;
+    width: 30px;
+}

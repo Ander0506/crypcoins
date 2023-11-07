@@ -1,0 +1,29 @@
+.home{
+    box-shadow: 0 0 7px 0px #ebe8ee;
+    padding: 25px;
+}
+
+.home .cardContainer{
+    height: 100%;
+}
+
+.home .cardContainer button{
+    height: 100%;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    color: white;
+    font-size: 15px;
+    line-height: normal;
+    background-color: #2f263c;
+    font-weight: 400;
+}
+
+.home .cardContainer button span{
+    margin-right: 0px;
+    margin-bottom: 10px;
+}
+
+.home .cardContainer button span svg{
+    font-size: 45px;
+}
